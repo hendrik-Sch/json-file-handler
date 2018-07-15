@@ -1,0 +1,7 @@
+{
+    "name": "hendrik-Sch/json-file-handler",
+    "description": "A very simple class to manage .json files on your server.",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
