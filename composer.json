@@ -1,6 +1,13 @@
 {
     "name": "hendrik-sch/json-file-handler",
     "description": "A very simple class to manage .json files on your server.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hendrik Schürmann",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^5.3.3 || ^7.0"
     }
