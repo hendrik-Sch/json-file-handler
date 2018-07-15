@@ -1,5 +1,6 @@
 {
     "name": "hendrik-sch/json-file-handler",
+    "type": "library",
     "description": "A very simple class to manage .json files on your server.",
     "license": "MIT",
     "authors": [
@@ -13,7 +14,7 @@
     },
     "autoload": {
         "psr-0" : {
-            "jsonFileHandler" : "src"
+            "hendrikSch\\jsonFileHandler\\" : "src/"
         }
     }
 }

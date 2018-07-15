@@ -1,6 +1,6 @@
 <?php
 
-namespace jsonFileHandler;
+namespace hendrikSch\jsonFileHandler;
 
 class JsonFileHandler
 {
